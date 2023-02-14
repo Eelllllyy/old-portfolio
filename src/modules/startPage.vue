@@ -33,8 +33,7 @@
           <li><a href="https://t.me/eelllllyy">
              <font-awesome-icon icon="fa-brands fa-telegram"/> Telegram
           </a></li>
-          <li><a href="https://hh.ru/applicant/resumes/view?resume=222787aaff0bb781a30039ed1f534877545331
-"><span class="hh">hh</span> HeadHunter</a></li>
+          <li><a href="https://hh.ru/resume/222787aaff0bb781a30039ed1f534877545331"><span class="hh">hh</span> HeadHunter</a></li>
           <li><a href="https://github.com/Eelllllyy">
             <font-awesome-icon icon="fa-brands fa-github" /> GitHub
           </a></li>
